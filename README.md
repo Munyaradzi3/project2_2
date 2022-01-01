@@ -18,4 +18,18 @@ I also built another API for the general management of the blockchain which i wr
 build the mobile native app to be used by clients or nodes. Miners or nodes will host the 2 two APIs for the blockchain and for the
 database. Clients connect to random miners from the client app.
 
-A Munyaradzi Togarepi Engineering.
+# A Munyaradzi Togarepi Engineering.
+
+# Sample screenshots of native app
+ 1. Login
+ 
+![blockbase-login](https://user-images.githubusercontent.com/62065166/147848656-cc30a4b0-afec-4cb0-91d7-52d8670fb095.png)
+
+2. Search page 
+3. 
+![blockbase-search](https://user-images.githubusercontent.com/62065166/147848672-681e3e22-d05f-4ed7-bf50-af96c2ffd354.png)
+
+
+3 Perfoming transactions
+
+![blockbase-transact](https://user-images.githubusercontent.com/62065166/147848680-b42fe90f-f8a4-436f-9d03-074b3b6c1f49.png)
